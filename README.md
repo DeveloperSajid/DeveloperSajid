@@ -18,9 +18,6 @@ https://t.me/DeveloperSajid
 https://www.linkedin.com/in/mdsajidahmed
 ### WhatsApp Number :
 +8801793117244
-* Sajid
-Asdf
-* Ahmed
 <!---
 DeveloperSajid/DeveloperSajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
