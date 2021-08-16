@@ -1,11 +1,5 @@
 # Hi, I'm Sajid! 👋
 
-  
-## Feedback
-
-If you have any feedback, please reach out to us at fake@fake.com
-
-
 - 👋 Hi, I’m @DeveloperSajid
 - 👀 I’m interested in Website Design & Development.
 - 🌱 I’m currently learning JavaScript, Node JS & Mongo DB.
@@ -26,6 +20,9 @@ https://t.me/DeveloperSajid
 https://www.linkedin.com/in/mdsajidahmed
 ### WhatsApp Number :
 +8801793117244
+
+## Feedback
+If you have any feedback, please reach out to us at fake@fake.com
 <!---
 DeveloperSajid/DeveloperSajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
